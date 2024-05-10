@@ -1,0 +1,31 @@
+{
+  "version": "0.0.1",
+  "name": "react-native-sms-android",
+  "description": "React native sms android module",
+  "author": {
+    "email": "mmadioubah@gmail.com",
+    "name": "Madiou BAH",
+    "url": "https://madiou.vercel.app"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madiou84/react-native-sms-android.git"
+  },
+  "keywords": [
+    "react-native-sms-android",
+    "react-native-sms",
+    "android"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/madiou84/react-native-sms-android/issues"
+  },
+  "homepage": "https://github.com/madiou84/react-native-sms-android#readme"
+}
